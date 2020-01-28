@@ -12,7 +12,8 @@ Installation
 Local environment:
 
 1. Set up a project `git clone https://github.com/AnnaZemtsova/testTask.git`
-2. Run `npm install --save-dev @angular-devkit/build-angular`
+2. Run `cd testTask`
+3. Run `npm install --save-dev @angular-devkit/build-angular`
 
 Start project
 ------------------------------
