@@ -1,0 +1,3 @@
+<div class="fruits" *ngFor="let fruit of fruits">
+  <div class="fruit" [class.coral]="isChoosed(fruit)"  (click)="changeColor(fruit)">{{fruit}}</div>
+</div>

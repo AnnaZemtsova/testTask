@@ -1,0 +1,12 @@
+.fruits{
+  display: flex;
+  flex-direction: column;
+}
+
+.fruit{
+  height: 70px;
+}
+
+.coral{
+  color: coral;
+}
