@@ -26,9 +26,9 @@ Start project
 
  -   No duplicate code parts
  -   The names of variables / classes / methods correspond to their purpose
- -   The principle of Single Responsibility is preserved - each class / method performs only its own function,
+ -   The principle of Single Responsibility is maintained - each class / method performs only its own function,
     performs it fully and nothing more.
- -   The principle remains: the code is open for extension, closed for modification. 
+ -   The principle is maintained : the code is open for extension, closed for modification. 
     This is usually achieved by creating interfaces and using abstract entities.
  -   The minimum number of entities / methods to solve the problem, while maintaining functionality and optimality
 
