@@ -18,7 +18,7 @@ Local environment:
 Start project
 ------------------------------
 
-1. Run `ng serve` to start the project. The project will be available at `http://localhost:4200`
+1. Run `npm start` to start the project. The project will be available at `http://localhost:4200`
 
 ## Answers
 
